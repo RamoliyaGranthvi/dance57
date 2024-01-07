@@ -28,9 +28,9 @@
    <!-- body -->
    <body class="main-layout">
       <!-- loader  -->
-      <div class="loader_bg">
+      <!-- <div class="loader_bg">
          <div class="loader"><img src="images/loading1.gif" alt="" /></div>
-      </div>
+      </div> -->
       <!-- end loader -->
       <!-- header -->
       <header>
